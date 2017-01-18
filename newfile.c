@@ -1,4 +1,4 @@
 new file
 new commit
 test
-should show 2
+test 3
